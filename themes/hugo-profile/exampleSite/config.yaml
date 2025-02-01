@@ -375,7 +375,7 @@ params:
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      x: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
 
