@@ -54,8 +54,8 @@ animate = true
 
     [params.navbar.menus]
     disableAbout = false
-    disableExperience = false
-    disableEducation = false
+    disableExperience = true
+    disableEducation = true
     disableProjects = false
     disableAchievements = false
     disableContact = false
