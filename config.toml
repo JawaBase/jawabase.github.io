@@ -1,6 +1,6 @@
 baseURL = "https://jawabase.com"
 languageCode = "en-us"
-title = "JawaBase"
+title = "JawaBase - Enhance Your Productivity Through Digital Transformation"
 theme = "hugo-profile"
 enableRobotsTXT = true
 
@@ -32,7 +32,7 @@ weight = 2
 title = "JawaBase"
 description = "A Leading Digital Transformator for Your Business Productivity"
 favicon = "/fav.png"
-useBootstrapCDN = false
+useBootstrapCDN = true
 mathjax = false
 animate = true
 
