@@ -108,76 +108,50 @@ With a focus on innovation, agility, and long-term partnerships, JawaBase is you
 
   [params.achievements]
   enable = true
+  title = "Our Teams"
 
     [[params.achievements.items]]
-    title = "Google kickstart runner"
-    content = "I solved all problems with optimal solution."
-    url = "https://example.com"
-    image = "/images/achievment.jpg"
+    title = "Ahmad Ridwan Fauzi (COO)"
+    content = "8+ years of entrepreneurial experience. Software developer from heart, business developer from mind"
+    image = "/images/teams/oji.jpg"
 
     [[params.achievements.items]]
-    title = "Facebook Hackathon Winner"
-    content = "Developed a product using Artificial Intelligence."
-    image = "/images/achievment.jpg"
-
-    [[params.achievements.items]]
-    title = "Hugo Profile"
-    content = "Developed a theme and getting 1K+ downloads per month."
-    url = "https://github.com/gurusabarish/hugo-profile"
-    image = "/images/achievment.jpg"
+    title = "Ahmad Mundhofa (CTO)"
+    content = "7+ years of software development experience. Mastering all elements of development"
+    image = "/images/teams/dhofa.jpg"
 
   [params.projects]
   enable = true
 
     [[params.projects.items]]
-    title = "Hugo Profile"
-    content = "A highly customizable and mobile first Hugo template for personal portfolio and blog."
-    image = "/images/projects/profile.png"
-    badges = [ "Hugo", "Bootstrap", "Javascript" ]
+    title = "TeeOnMe.com - T-shirt Design Marketplace"
+    content = "A marketplace for selling your own t-shirt design on a commission-based in US"
+    image = "/images/projects/project-1.jpg"
+    badges = [ "RoR", "React" ]
 
       [params.projects.items.featured]
       name = "Demo"
-      link = "https://hugo-profile.netlify.app"
-
-      [[params.projects.items.links]]
-      icon = "fa fa-envelope"
-      url = "mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f"
-
-      [[params.projects.items.links]]
-      icon = "fab fa-github"
-      url = "https://github.com/gurusabarish/hugo-profile"
-
-      [[params.projects.items.links]]
-      icon = "fab fa-twitter"
-      url = "https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile"
+      link = "https://teeonme.com"
 
     [[params.projects.items]]
-    title = "Image Converter"
-    content = "A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django."
-    image = "/images/projects/converter.jpg"
+    title = "Komodra - Textile Trading Company"
+    content = "A website for textile trading company based in Italy. We implemented ERP for the company as well."
+    image = "/images/projects/project-3.jpg"
     badges = [ "VueJS", "Frappe" ]
 
       [params.projects.items.featured]
       name = "Demo"
-      link = "https://django-converter.herokuapp.com"
-
-      [[params.projects.items.links]]
-      icon = "fab fa-github"
-      url = "https://github.com/gurusabarish/converter"
+      link = "https://komodra.com"
 
     [[params.projects.items]]
-    title = "Hugo Profile V2"
-    content = "A clean and simple Hugo template for personal portfolio and blog."
-    image = "/images/projects/profile2.jpg"
-    badges = [ "Hugo", "Bootstrap", "Javascript" ]
+    title = "2Gaijin.com - Secondhand Marketplace for Foreigners in Japan"
+    content = "A marketplace for trading secondhand items in Japan built on Go and ReactJS"
+    image = "/images/projects/project-2.jpg"
+    badges = [ "Go", "React" ]
 
       [params.projects.items.featured]
-      name = "Demo V2"
-      link = "https://hugo-profile-2.netlify.app"
-
-      [[params.projects.items.links]]
-      icon = "fab fa-github"
-      url = "https://github.com/gurusabarish/HugoProfileV2"
+      name = "Demo"
+      link = "https://www.figma.com/design/C9YTkVHw2iz0poEe5mLhi4/%E2%9C%8C%EF%B8%8F2Gaijin---Secondhand-Platform-for-Gaijin?node-id=0-1&p=f&t=FaIr1oRrhNgLVyYY-0"
 
   [params.contact]
   enable = true
